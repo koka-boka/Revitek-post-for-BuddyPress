@@ -1,6 +1,8 @@
 # Retweet-post-fot-BuddyPress
 Adds a retweet functionality to BuddyPress activity streams.
+
 Main functions:
+
 Adding a retweet button:
 
 The "Retweet" button is added to each record of activity in the feed.
