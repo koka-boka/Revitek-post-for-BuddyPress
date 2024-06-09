@@ -1,4 +1,4 @@
-# Retweet-post-fot-BuddyPress
+# Revitek post for BuddyPress 
 Adds a retweet functionality to BuddyPress activity streams.
 
 Main functions:
@@ -36,6 +36,9 @@ Notifications: Users stay informed when their posts are retweeted, adding motiva
 Localization: Translation support allows you to use the plugin in different languages, making it accessible to a global audience.
 Conclusion:
 The BuddyPress Retweet plugin is a powerful tool for improving user engagement on your BuddyPress platform. With it, users can easily share posts, receive notifications about interactions and enjoy a user-friendly interface.
+
+![revitek](https://github.com/koka-boka/Retweet-post-fot-BuddyPress/assets/172103790/d444e9d7-e24b-414a-8e1f-641c0f11855f)
+
 
 == Donate ==
 
