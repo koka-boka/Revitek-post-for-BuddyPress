@@ -1,0 +1,42 @@
+.button.revitek-button {
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.revitek-banner {
+    background-color: #8bca58;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    width: max-content;
+    border-radius: 6px !important;
+}
+#revitek-banner a {
+   color: aliceblue; 
+}
+.revitek-banner img.avatar {
+    margin-right: 10px;
+    width: 19%;
+}
+.button.revitek-button:before {
+    content: "\f079";
+    font-family: 'Font Awesome 5 Free' !important;
+    font-size: 18px !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #8bca58;
+    margin: 4px;
+}
+.revitek-class-button {
+    display: none;
+}
+.fa-retweet {
+    position: absolute;
+    padding-left: 4px;
+    padding-top: 5px;
+    color: #333;
+} 
