@@ -15,7 +15,7 @@ The original publication is not changed, but a new record appears indicating the
 
 Retweet banner:
 
-The new activity record contains a banner with the original author's avatar and name, as well as a link to their profile.
+The new activity record contains a banner with the original author's avatar and name, as well as a link to original publication.
 
 User notifications:
 
