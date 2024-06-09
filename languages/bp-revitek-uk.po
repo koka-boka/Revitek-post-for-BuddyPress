@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revitek post for BuddyPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-09 17:52+0000\n"
+"PO-Revision-Date: 2024-06-09 17:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: bp-revitek"
+
+#. Description of the plugin
+msgid "Adds a revitek functionality to BuddyPress activity streams."
+msgstr "Додає функцію репоста до потоків активності BuddyPress."
+
+#: includes/functions.php:94
+msgid "Failed to add revitek to the database"
+msgstr "Не вдалося додати revitek до бази даних"
+
+#: includes/functions.php:42
+msgid "Failed to create revitek activity"
+msgstr "Не вдалося створити активність revitek"
+
+#: includes/functions.php:29
+msgid "Invalid activity ID"
+msgstr "Недійсний ID активності"
+
+#. Author of the plugin
+msgid "Koka Boka"
+msgstr "Koka Boka"
+
+#: includes/functions.php:62
+msgid "Original activity not found"
+msgstr "Початкова діяльність не знайдена"
+
+#. Не потрібно екранувати, оскільки це nonce
+#: includes/functions.php:11
+msgid "Revitek"
+msgstr "Revitek"
+
+#: includes/functions.php:33
+msgid "Revitek already exists"
+msgstr "Ви вже взаємодіяли з цією публікацією"
+
+#. Name of the plugin
+msgid "Revitek post for BuddyPress"
+msgstr "Revitek post for BuddyPress"
+
+#: includes/functions.php:67
+msgid "Reviteked:"
+msgstr "Reviteked:"
+
+#: includes/functions.php:23
+msgid "User not logged in"
+msgstr "Користувач не ввійшов у систему"
+
+#. %s is the display name of the user who reviteked the post
+#: includes/notifications.php:33 includes/notifications.php:36
+#, php-format
+msgid "Your post was reviteked by %s"
+msgstr "Ваша публікація була репостнута %s"
